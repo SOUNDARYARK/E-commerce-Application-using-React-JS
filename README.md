@@ -19,8 +19,7 @@ Bootstrap 5 is as CSS Framework
 React Redux is used as State Management Library for managing Shopping 
 Cart & Users
 
-Project Details:
-1. Customer Module
+# Customer Module
  Home Page with Slider which shows products offers dynamically
  Customer Register and Sign In options after validation
  Products search facility to allow user to filter products as per their 
