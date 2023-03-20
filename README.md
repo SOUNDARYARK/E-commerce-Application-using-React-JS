@@ -12,11 +12,11 @@ HTML 5, Bootstrap 5, Java script, React JS, Redux
 
 
 # Project Details
-Ecommerce Application uses Mock API End points as Back end
-Java script fetch() method is used for API calls
-React Routing is used for Navigation
-Bootstrap 5 is as CSS Framework
-React Redux is used as State Management Library for managing Shopping 
+1)Ecommerce Application uses Mock API End points as Back end
+2)Java script fetch() method is used for API calls
+3)React Routing is used for Navigation
+4)Bootstrap 5 is as CSS Framework
+5)React Redux is used as State Management Library for managing Shopping 
 Cart & Users
 
 # Customer Module
