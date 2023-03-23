@@ -4,9 +4,10 @@
 #Technical Details:
 HTML 5, Bootstrap 5, Java script, React JS, Redux
 
-#screenshots![Screenshot (76)](https://user-images.githubusercontent.com/93415995/226246225-b4fb020a-d39e-4f4d-aed6-5f21e6e44416.png)
+#screenshots!
 
 
+![Screenshot (81)](https://user-images.githubusercontent.com/93415995/227139078-c7ae73dc-834c-4d05-91ec-2482aeed79d4.png)
 
 
 
